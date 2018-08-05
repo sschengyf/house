@@ -21,15 +21,16 @@
 
 ### Steps to buy a house at high level
 
-1. Check out advertisements
-2. Go to open home
-3. Revisit the property
-4. Check the factors (title, LIME, insurance, earth quake damage claim, leaking, price, history, body corp etc)
-5. Do an inspection
-6. Give an offer
-7. Sign papers with solicitor
-8. Transfer funds to trust account
-9. Take the key at settlement date
+1. Budget approve
+2. Check out advertisements
+3. Go to open home
+4. Revisit the property
+5. Check the factors (title, LIME, insurance, earth quake damage claim, leaking, price, history, body corp, GI system etc)
+6. Do an inspection
+7. Give an offer
+8. Sign papers with solicitor
+9. Transfer funds to trust account
+10. Take the key at settlement date
 
 
 
@@ -53,6 +54,7 @@
 
 * Why the vendor wants to sell
 * What is the exception price
+* Is it under offered
 
 
 
@@ -111,11 +113,11 @@
 
 
 
-在打算进入市场淘房前，还有一件很重要的事情就是知道自己的买房预算。
+在打算进入市场淘房前，还有一件很重要的事情就是知道自己的买房预算。这段主要想说一下房屋贷款，全款买家可以忽略这一段。新西兰的房贷首付比例比中国低了很多，目前是首付20%为基准线，就是说如果有10万纽币存款，银行会比较容易批准40万的贷款，加上自己的首付10万，这样预算是50万纽币。当然也有可能申请更高的贷款比例，譬如买新建的房或者贷款者有高收入，10万首付就可能贷55万，那预算就是65万。凡事有弊有利，如果首付比例低于20%，贷款的利率会更高，风险更大。在搜索目标之前最好能从银行拿到一个贷款的预批准，银行会根据贷款者目前的存款，收入，支出，资产，签证，以及其他的财务状况和风险评估等因素算出一个放贷的数额，拿到这个允许贷款的数额之后，去市场上找房子才能有的放矢。怎么去申请银行贷款呢？一般有两种方式，一是贷款者自己去银行申请，二是找贷款中介（Broker）。第一种方式没什么坏处，就需要自己去银行挨家申请，比较费时间；第二种的好处很明显，贷款中介一次替贷款者向多家银行提出申请，这样贷款者就可以从这些银行中选择最中意的那家贷款，而且贷款中介不收取贷款者的费用，因为最终拿到贷款的那家银行会提供佣金给贷款中介。
 
 
 
-在下决心买哪个房子之前，所有房子都最好自己去亲身实地考察一下。在新西兰，几乎所有房子在售出之前都会有几轮开放日让买家进入屋内参观，大多时候这种开放日毋需预约，在指定时间直接前往参观即可。
+知道了自己的预算，就可以去看房了，在给买房offer之前，所有刚兴趣的房子都尽量自己去亲身实地考察一番。在新西兰，几乎所有房子在售出之前都会有几轮开放日让买家进入屋内参观，大多数时候房屋开放日毋需预约，只要在指定时间直接前往参观即可。
 
 有几个主要的信息渠道可以查到待售房屋的开放日信息：
 
@@ -147,7 +149,37 @@
 
 * 房产中介的邮件推送
 
-如果有自己感兴趣的房子，除了参加开放日之外，还可以约房产中介在其他时间去看房，比如晚上去感受下周围环境是否安静；或者约一个天气不好的时候去看看房屋光线是否足够，保暖是否充分；又或者下雨时去检查房屋排水是否有问题等。房屋卖家和中介是很欢迎有人去看房的，这说明市场上有买家对这个房子很感兴趣，所以任何时候对房屋有任何问题想去看房都不用嫌麻烦。
+如果有自己感兴趣的房子，除了参加开放日之外，还可以约房产中介在其他时间去看房，比如晚上去感受下周围环境是否安静；或者约一个天气不好的时候去看看房屋光线是否足够，保暖是否充分；又或者下雨时去查看房屋排水是否有问题等。房屋卖家和房产中介是很欢迎有人去看房的，这说明市场上有买家对这个房子很感兴趣，所以任何时候对房屋有不清楚的地方都可以约中介看房。
+
+
+
+除了去实地考察房产，同时还要展开关于房屋信息的调查。
+
+- Title，类似于中国的房产证，上面罗列了很多与该房产相关的信息，比如产权所有者的名字，产权所在位置和面积，甚至贷款银行等等。
+
+  主要关注的是房产所有权的类型，一般分成两大类
+
+  * Freehold
+
+    所有者拥有这块土地及土地之上的建筑，Title写的是Fee simple就表示这是所有者的永久产权。所以Freehold的产权非常简单明了。
+
+  * Leasehold
+
+    这个Title下的土地或者不动产是属于租赁，简单说这个房产是有租期的，并非永久产权。比如有些公寓的土地是Leasehold，那么每隔一个年限，就需要续租土地，所以除了缴纳物业费，还要缴地租。新西兰还有一种历史遗留的产权叫Cross lease，这是在当时好像1950年代左右的法律框架下将大块土地分割成小块时产生的一种产权。举个例子，当时修一个House要求至少在一块800平米的土地上，但实际可能只需要400平米，现在甚至只要200平米就够了，当然为了能合法盖房，就产生了你租我脚下的地，我租你脚下的地，如此一来，我的地加上租你的地面积就够能达标了。简而言之，大家彼此都成了对方的地主，并且相互之间的土地租期是999年。土地面积达标的问题是解决了，可是又产生了一个新问题，既然相互都是彼此的地主，那你脚下的地也是我的地，所以你要在地上做任何改动都要经过我的批准，反之亦然。因此这种产权就容易产生纠纷，也导致属于Cross lease产权的房产普遍比市场价低而且更难卖出去。
+
+  
+
+- LIME
+- Earthquake damage
+- Builder report
+- Leaking
+- Tsunami zone
+- Earthquake fault line
+- School zone
+- Living facilities
+- Community safety
+- Interest rate
+- Rates
 
 
 
@@ -162,3 +194,5 @@ Semi-attached
 Open home
 
 Settlement date
+
+A loan-to-value ratio (LVR)
